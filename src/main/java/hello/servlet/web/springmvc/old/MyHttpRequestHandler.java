@@ -1,4 +1,4 @@
-package hello.servlet.web.springmvc;
+package hello.servlet.web.springmvc.old;
 
 import java.io.IOException;
 import javax.servlet.ServletException;
