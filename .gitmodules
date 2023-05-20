@@ -4,3 +4,6 @@
 [submodule "core"]
 	path = core
 	url = https://github.com/bunsung92/core
+[submodule "servlet"]
+	path = servlet
+	url = https://github.com/bunsung92/servlet
