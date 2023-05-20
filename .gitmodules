@@ -1,0 +1,6 @@
+[submodule "springmvc"]
+  path = springmvc
+  url = https://github.com/bunsung92/springmvc
+[submodule "core"]
+  path = core
+  url = https://github.com/bunsung92/core
